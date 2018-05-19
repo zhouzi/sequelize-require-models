@@ -19,13 +19,13 @@ models/
     index.js
 ```
 
-Here's what the `index.js` file should contain:
+Here's what the `index.js` file could contain:
 
 ```js
 const Sequelize = require('sequelize');
 const requireModels = require('sequelize-import-models');
 
-const database = new Sequelize('cms', 'root', '', {
+const database = new Sequelize('cms', 'root', 'password', {
     host: 'localhost',
     dialect: 'mysql'
 });
