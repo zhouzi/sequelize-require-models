@@ -1,11 +1,11 @@
-# sequelize-import-models
+# sequelize-require-models
 
-Import all Sequelize models from a folder and associate them together.
+Require all Sequelize models from a folder and associate them together.
 
 ## Installation
 
 ```
-npm install sequelize-import-models --save
+npm install sequelize-require-models --save
 ```
 
 ## Example
@@ -23,7 +23,7 @@ Here's what the `index.js` file could contain:
 
 ```js
 const Sequelize = require('sequelize');
-const requireModels = require('sequelize-import-models');
+const requireModels = require('sequelize-require-models');
 
 const database = new Sequelize('cms', 'root', 'password', {
     host: 'localhost',

@@ -1,11 +1,11 @@
 {
-  "name": "sequelize-import-models",
+  "name": "sequelize-require-models",
   "version": "0.1.0",
-  "description": "Import all Sequelize models from a folder and associate them together.",
+  "description": "Require all Sequelize models from a folder and associate them together.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zhouzi/sequelize-import-models.git"
+    "url": "git+https://github.com/Zhouzi/sequelize-require-models.git"
   },
   "keywords": [
     "sequelize",
@@ -17,9 +17,9 @@
   "author": "Gabin Aureche <hello@gabinaureche.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Zhouzi/sequelize-import-models/issues"
+    "url": "https://github.com/Zhouzi/sequelize-require-models/issues"
   },
-  "homepage": "https://github.com/Zhouzi/sequelize-import-models#readme",
+  "homepage": "https://github.com/Zhouzi/sequelize-require-models#readme",
   "dependencies": {
     "fast-glob": "^2.2.2"
   }
