@@ -25,7 +25,7 @@ Here's what the `index.js` file could contain:
 const Sequelize = require('sequelize');
 const requireModels = require('sequelize-require-models');
 
-const database = new Sequelize('cms', 'root', 'password', {
+const database = new Sequelize('database', 'root', 'password', {
     host: 'localhost',
     dialect: 'mysql'
 });
