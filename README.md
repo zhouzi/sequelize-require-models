@@ -63,4 +63,4 @@ module.exports = defineUser;
 ### requireModels(database: Sequelize, folder: string)
 
 * `database`: an instance of Sequelize
-* `folder`: the folder to look into, subfolders are imported too
+* `folder`: the folder to look into
