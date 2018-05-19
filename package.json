@@ -1,0 +1,26 @@
+{
+  "name": "sequelize-import-models",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhouzi/sequelize-import-models.git"
+  },
+  "keywords": [
+    "sequelize",
+    "models",
+    "import",
+    "require",
+    "load"
+  ],
+  "author": "Gabin Aureche <hello@gabinaureche.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zhouzi/sequelize-import-models/issues"
+  },
+  "homepage": "https://github.com/Zhouzi/sequelize-import-models#readme",
+  "dependencies": {
+    "fast-glob": "^2.2.2"
+  }
+}
