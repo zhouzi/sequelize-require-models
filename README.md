@@ -1,6 +1,6 @@
 # sequelize-import-models
 
-
+Import all Sequelize models from a folder and associate them together.
 
 ## Installation
 

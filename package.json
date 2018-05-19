@@ -1,7 +1,7 @@
 {
   "name": "sequelize-import-models",
   "version": "0.1.0",
-  "description": "",
+  "description": "Import all Sequelize models from a folder and associate them together.",
   "main": "index.js",
   "repository": {
     "type": "git",
